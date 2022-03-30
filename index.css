@@ -1,0 +1,8 @@
+.pp{
+    text-align: center;
+    background-image:url("./images/passanger.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 400px;
+}
