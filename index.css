@@ -5,4 +5,27 @@
     background-repeat: no-repeat;
     width: 400px;
     height: 400px;
+
+}
+#increment-btn{
+    background-color: maroon;
+    width: 50%;
+    padding: 8px 20px;
+    border-radius: 10px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+
+
+}
+#save-btn{
+    background-color:rgb(12, 12, 243);
+    width: 50%;
+    padding: 8px 20px;
+    border-radius: 10px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+
+
 }
